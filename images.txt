@@ -10,3 +10,4 @@ wangxiaochun/pod-test:v0.1
 wangxiaochun/pod-test:v0.2
 ikubernetes/demoapp:v1.0
 busybox
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
