@@ -11,3 +11,4 @@ wangxiaochun/pod-test:v0.2
 ikubernetes/demoapp:v1.0
 busybox
 registry.k8s.io/metrics-server/metrics-server:v0.7.1
+bitnami/redis-cluster:7.2.3-debian-11-r0
